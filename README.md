@@ -35,10 +35,10 @@ tos en Java y en JavaScript.
 - 🥅 Metas para el 2020: desplegar mi primer proyecto web.
 - ⚡ Dato curioso: me encanta hacer de DJ en mi tiempo libre.
 ---
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&redirect=true)
 ---
-### Contáctame
+## Contáctame
 
 [<img align="left" alt="heymanolito.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -80,7 +80,8 @@ tos en Java y en JavaScript.
 ## Mis estadísticas en GitHub
 
 
-[![heymanolito's profile stats](https://github-readme-stats.vercel.app/api?username=heymanolito)](https://github.com/anuraghazra/github-readme-stats)
+![heymanolito's Profile Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 <br />
@@ -111,7 +112,7 @@ tos en Java y en JavaScript.
 
 </details>
 
-
+[#1]: https://www.trados.com/solutions/software-localization/
 [language1]: https://imgur.com
 [twitter]: https://twitter.com/heymanolito
 [instagram]: https://www.instagram.com/heymanolito/
