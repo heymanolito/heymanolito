@@ -3,17 +3,13 @@
 ## Me llamo Manuel, aunque tú puedes llamarme [Manu][linkedin]
 ---
 Other languages: [English][languages1]
+
 ---
 ## Mi historia
-
 Durante mi tercer año, uno de mis profesores me habló sobre la [localización][#1] de páginas
 web, lo que me hizo interesarme por la traducción de software. Me intrigaba cuál era el proceso detrás de la creación de una web, por lo que decidí realizar un curso en la plataforma de [Udemy][#2] para ampliar mis conocimientos en este ámbito. 
 
-Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años sin estudiar 
-matemáticas o ciencias. Sin embargo, esto no me frenó. Sentía la misma la misma sensación
-de aprendizaje insaciable que uno tiene cuando comienza a aprender un nuevo idioma. Decidí 
-dar el paso y cambiar el rumbo de mi carrera. Al fin y al cabo, seguía siendo un apasionado
-por los lenguajes, solamente que en vez de alemán o árabe, comencé a asentar mis conocimientos en Java y en JavaScript.
+Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años sin estudiar matemáticas o ciencias. Sin embargo, esto no me frenó. Sentía la misma la misma sensación de aprendizaje insaciable que uno tiene cuando comienza a aprender un nuevo idioma. Decidí dar el paso y cambiar el rumbo de mi carrera. Al fin y al cabo, seguía siendo un apasionado por los lenguajes, solamente que en vez de alemán o árabe, comencé a asentar mis conocimientos en Java y en JavaScript.
 
 ---
 ## Objetivos para el 2021
@@ -36,7 +32,7 @@ por los lenguajes, solamente que en vez de alemán o árabe, comencé a asentar 
 ---
 ## Contáctame
 
-[![Twitter]<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[![<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]][twitter]
 
 [![LinkedIn]<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
