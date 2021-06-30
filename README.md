@@ -1,8 +1,8 @@
 # ¡Bienvenid@ a mi perfil de Github! 👋
 ---
-### Other languages: [English][languages1]
----
 ## Me llamo Manuel, aunque tú puedes llamarme [Manu][website]
+---
+### Other languages: [English][languages1]
 ---
 
 ## Acerca de mí
@@ -37,7 +37,7 @@ tos en Java y en JavaScript.
 ---
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-mgffs18.vercel.app/api/spotify-playing" alt="heymanolito Spotify Playing" width="350" />](https://open.spotify.com/user/mgffs18?si=74fedd7cc9e1457b)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 ---
 ### Contáctame
 
