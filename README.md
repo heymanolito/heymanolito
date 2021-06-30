@@ -20,27 +20,23 @@ por los lenguajes, solamente que en vez de alemán o árabe, comencé a asentar 
 tos en Java y en JavaScript.
 
 ---
-## Mi estado actual
+## Objetivos para el 2021
+> ✔️ Principios SOLID de la programación.
+> ✔️ JavaDoc.
+> ❌ La API Java
+> ❌ Java Web.
+> ❌ JPA
+> ❌ SpringBoot
+> ❌ JavaScript
+---
+## Acerca de mí
 - 🔭 Acabo de terminar mi primer año como Desarrollador de Aplicaciones Web
-- 🌱 Objetivos para el 2020:
-- - > ✔️ Principios SOLID de la programación.
-- - > ✔️ JavaDoc.
-- - > ❌ La API Java
-- - > ❌ Java Web.
-- - > ❌ JPA
-- - > ❌ SpringBoot
-- - > ❌ JavaScript
 - 👯 Si quieres realizar un proyecto conmigo, contáctame
 - 🥅 Metas para el 2020: desplegar mi primer proyecto web.
 - ⚡ Dato curioso: me encanta hacer de DJ en mi tiempo libre.
-
 ---
 ### Spotify Playing 🎧
-<p align="center">
-
-  <a href="#">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&redirect=true)</a> |
-
-</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&redirect=true)
 ---
 ### Contáctame
 
@@ -84,7 +80,8 @@ tos en Java y en JavaScript.
 ## Mis estadísticas en GitHub
 
 
-<img align="left" alt="Estadísticas de heymanolito" src="https://github-readme-stats.heymanolito.vercel.app/api?username=heymanolito&show_icons=true&hide_border=true&theme=tokyonight" />
+[![heymanolito's profile stats](https://github-readme-stats.vercel.app/api?username=heymanolito)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br />
 <br />
@@ -116,9 +113,6 @@ tos en Java y en JavaScript.
 
 
 [language1]: https://imgur.com
-[website]: en construcción
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/heymanolito
+[instagram]: https://www.instagram.com/heymanolito/
+[linkedin]: https://www.linkedin.com/in/manuel-gallardo-925573139
