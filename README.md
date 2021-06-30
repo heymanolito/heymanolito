@@ -37,7 +37,7 @@ Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años 
 > [<img align="left" alt="heymanolito | LinkedIn" width="22px" src="https://i.imgur.com/tKAfy4d.png" />][linkedin]
 
 > [<img align="left" alt="heymanolito | Instagram" width="22px" src="https://i.imgur.com/giZIfTN.png" />][instagram]
-
+<br />
 ---
 
 ### Languages and Tools:
