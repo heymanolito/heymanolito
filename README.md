@@ -13,17 +13,17 @@ Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años 
 
 ---
 ## Objetivos para el 2021
-> ✔️ Principios SOLID de la programación.
-> ✔️ JavaDoc.
+> ✔️ Principios SOLID de la programación
+> ✔️ JavaDoc
 > ❌ La API Java
-> ❌ Java Web.
+> ❌ Java Web
 > ❌ JPA
 > ❌ SpringBoot
 > ❌ JavaScript
 ---
 ## Acerca de mí
-- 🔭 Acabo de terminar mi primer año como Desarrollador de Aplicaciones Web
-- 👯 Si quieres realizar un proyecto conmigo, contáctame
+- 🔭 Acabo de terminar mi primer año como Desarrollador de Aplicaciones Web.
+- 👯 Si quieres realizar un proyecto conmigo, contáctame.
 - 🥅 Metas para el 2020: desplegar mi primer proyecto web.
 - ⚡ Dato curioso: me encanta hacer de DJ en mi tiempo libre.
 ---
@@ -44,7 +44,7 @@ Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años 
 
 ---
 
-## Languages and Tools:
+## Languajes y herramientas
 
 > [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
 
