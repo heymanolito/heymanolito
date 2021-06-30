@@ -32,11 +32,11 @@ Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años 
 ---
 ## Contáctame
 
-> [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://i.imgur.com/0627BV6.png" />][twitter]
+> [<img align="left" alt="heymanolito | Twitter" width="22px" src="https://i.imgur.com/3zJUNhq.png" />][twitter]
 
-> [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://i.imgur.com/vzrpqzQ.png" />][linkedin]
+> [<img align="left" alt="heymanolito | LinkedIn" width="22px" src="https://i.imgur.com/tKAfy4d.png" />][linkedin]
 
-> [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.imgur.com/kX0dzQn.png" />][instagram]
+> [<img align="left" alt="heymanolito | Instagram" width="22px" src="https://i.imgur.com/giZIfTN.png" />][instagram]
 
 ---
 
