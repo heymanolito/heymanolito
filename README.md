@@ -2,7 +2,7 @@
 ---
 ## 🤠 Me llamo Manuel, aunque tú puedes llamarme <i>[Manu][linkedin]</i> 🤠
 ---
-Other languages: [English][languages1]
+Other languages: <i>[English][languages1]</i>
 
 ---
 ## Mi historia
