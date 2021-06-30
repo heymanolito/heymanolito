@@ -85,7 +85,7 @@ I was intrigued by the process behind the creation of a website, so I decided to
 
 [#1]: https://www.trados.com/solutions/software-localization/
 [#2]: https://www.udemy.com/course/the-complete-web-development-bootcamp/
-[SPANISH]: https://imgur.com
+[SPANISH]: https://github.com/heymanolito/heymanolito/blob/master/README.md
 [twitter]: https://twitter.com/heymanolito
 [instagram]: https://www.instagram.com/heymanolito/
 [linkedin]: https://www.linkedin.com/in/manuel-gallardo-925573139
