@@ -1,12 +1,11 @@
 # ¡Bienvenid@ a mi perfil de Github! 👋
 ---
 ## Me llamo Manuel, aunque tú puedes llamarme [Manu][linkedin]
+---
 Other languages: [English][languages1]
 ---
+## Mi historia
 
-## Acerca de mí
-
-### 👨‍🎓 Estudié Traducción e Interpretación durante tres años. 
 Durante mi tercer año, uno de mis profesores me habló sobre la [localización][#1] de páginas
 web, lo que me hizo interesarme por la traducción de software. Me intrigaba cuál era el proceso detrás de la creación de una web, por lo que decidí realizar un curso en la plataforma de [Udemy][#2] para ampliar mis conocimientos en este ámbito. 
 
