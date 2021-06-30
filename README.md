@@ -41,8 +41,6 @@ tos en Java y en JavaScript.
   <a href="#">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&redirect=true)</a> |
 
 </p>
-
-</p>
 ---
 ### Contáctame
 
