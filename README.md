@@ -1,6 +1,6 @@
 # ¡Bienvenid@ a mi perfil de Github! 👋
 ---
-## Me llamo Manuel, aunque tú puedes llamarme [Manu][website]
+## Me llamo Manuel, aunque tú puedes llamarme [Manu][linkedin]
 ---
 ### Other languages: [English][languages1]
 ---
@@ -9,8 +9,7 @@
 
 # 👨‍🎓 Estudié Traducción e Interpretación durante tres años. 
 Durante mi tercer año, uno de mis profesores me habló sobre la [localización][#1] de páginas
-web, lo que me hizo interesarme por la traducción de software. Me intrigaba cuál era el proceso detrás de la creación de una web, por lo que decidí realizar un curso en la plataforma
-de [Udemy][#2] para ampliar mis conocimientos en este ámbito. 
+web, lo que me hizo interesarme por la traducción de software. Me intrigaba cuál era el proceso detrás de la creación de una web, por lo que decidí realizar un curso en la plataforma de [Udemy][#2] para ampliar mis conocimientos en este ámbito. 
 
 Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años sin estudiar 
 matemáticas o ciencias. Sin embargo, esto no me frenó. Sentía la misma la misma sensación
@@ -98,6 +97,7 @@ tos en Java y en JavaScript.
 </details>
 
 [#1]: https://www.trados.com/solutions/software-localization/
+[#2]: https://www.udemy.com/course/the-complete-web-development-bootcamp/
 [language1]: https://imgur.com
 [twitter]: https://twitter.com/heymanolito
 [instagram]: https://www.instagram.com/heymanolito/
