@@ -1,8 +1,8 @@
-# Bienvenid@ a mi perfil de Github! 
+# ¡Bienvenid@ a mi perfil de Github! 👋
 ---
 ### Other languages: [English][languages1]
 ---
-## Me llamo Manuel, aunque tú puedes llamarme [Manu][website] 👋
+## Me llamo Manuel, aunque tú puedes llamarme [Manu][website]
 ---
 
 ## Acerca de mí
