@@ -48,13 +48,13 @@ Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años 
 
 > [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
 
-> [<img align="left" alt="Java" width="26px" src="blob:https://imgur.com/405887a9-ea02-4a16-8163-258faaee918e" />][java]
+> [<img align="left" alt="Java" width="26px" src="https://i.imgur.com/dL9FAKb.png" />][java]
 
 > [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 
 > [<img align="left" alt="XML" width="26px" src="https://i.imgur.com/9ZYpuBU.png" />][xml]
 
-> [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+> [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 
 > [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 
