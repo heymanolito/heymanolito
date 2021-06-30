@@ -37,7 +37,7 @@ tos en Java y en JavaScript.
 ---
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&redirect=true)
 ---
 ### Contáctame
 
