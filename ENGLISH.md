@@ -2,7 +2,7 @@
 ---
 ## 🤠 My name is Manuel, but you can call me <i>[Manu][linkedin]</i> 🤠
 ---
-Other languages: <i>[Spanish][languages1]</i>
+Other languages: <i>[Spanish][SPANISH]</i>
 
 ---
 ## My story
@@ -85,7 +85,7 @@ I was intrigued by the process behind the creation of a website, so I decided to
 
 [#1]: https://www.trados.com/solutions/software-localization/
 [#2]: https://www.udemy.com/course/the-complete-web-development-bootcamp/
-[language1]: https://imgur.com
+[SPANISH]: https://imgur.com
 [twitter]: https://twitter.com/heymanolito
 [instagram]: https://www.instagram.com/heymanolito/
 [linkedin]: https://www.linkedin.com/in/manuel-gallardo-925573139
