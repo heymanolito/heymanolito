@@ -1,6 +1,6 @@
 # ¡Bienvenid@ a mi perfil de Github! 👋
 ---
-## Me llamo Manuel, aunque tú puedes llamarme [Manu][linkedin]
+## Me llamo Manuel, aunque tú puedes llamarme <i>[Manu][linkedin]</i>
 ---
 Other languages: [English][languages1]
 
@@ -32,11 +32,11 @@ Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años 
 ---
 ## Contáctame
 
-> [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+> [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://i.imgur.com/0627BV6.png" />][twitter]
 
-> [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+> [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://i.imgur.com/vzrpqzQ.png" />][linkedin]
 
-> [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+> [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.imgur.com/kX0dzQn.png" />][instagram]
 
 ---
 
