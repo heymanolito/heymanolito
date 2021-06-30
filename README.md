@@ -73,26 +73,11 @@ tos en Java y en JavaScript.
 
 
 ---
-
-
-
-
 ## Mis estadísticas en GitHub
 
 
-![heymanolito's Profile Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&hide_border=true)
+![heymanolito's Profile Stats](https://github-readme-stats.vercel.app/api?username=heymanolito&show_icons=true&theme=radical&hide_border=true)
 
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ---
 
