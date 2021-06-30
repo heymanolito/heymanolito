@@ -2,7 +2,7 @@
 ---
 ## 🤠 Me llamo Manuel, aunque tú puedes llamarme <i>[Manu][linkedin]</i> 🤠
 ---
-Other languages: <i>[English][languages1]</i>
+Other languages: <i>[English][ENGLISH]</i>
 
 ---
 ## Mi historia
@@ -85,7 +85,7 @@ Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años 
 
 [#1]: https://www.trados.com/solutions/software-localization/
 [#2]: https://www.udemy.com/course/the-complete-web-development-bootcamp/
-[language1]: https://imgur.com
+[ENGLISH]: https://github.com/heymanolito/heymanolito/blob/master/ENGLISH.md
 [twitter]: https://twitter.com/heymanolito
 [instagram]: https://www.instagram.com/heymanolito/
 [linkedin]: https://www.linkedin.com/in/manuel-gallardo-925573139
