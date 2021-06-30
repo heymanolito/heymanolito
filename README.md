@@ -1,7 +1,7 @@
 ---
 output:
   html_document:
-    css: style.css
+    css: styles.css
 ---
 # ¡Bienvenid@ a mi perfil de Github! 👋
 ---
