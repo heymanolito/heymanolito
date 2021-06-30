@@ -1,3 +1,8 @@
+---
+output:
+  html_document:
+    css: style.css
+---
 # ¡Bienvenid@ a mi perfil de Github! 👋
 ---
 ## 🤠 Me llamo Manuel, aunque tú puedes llamarme <i>[Manu][linkedin]</i> 🤠
