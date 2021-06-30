@@ -80,7 +80,7 @@ tos en Java y en JavaScript.
 ## Mis estadísticas en GitHub
 
 
-![heymanolito's Profile Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![heymanolito's Profile Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&hide_border=true)
 
 
 
