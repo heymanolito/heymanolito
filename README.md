@@ -14,8 +14,7 @@ Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años 
 matemáticas o ciencias. Sin embargo, esto no me frenó. Sentía la misma la misma sensación
 de aprendizaje insaciable que uno tiene cuando comienza a aprender un nuevo idioma. Decidí 
 dar el paso y cambiar el rumbo de mi carrera. Al fin y al cabo, seguía siendo un apasionado
-por los lenguajes, solamente que en vez de alemán o árabe, comencé a asentar mis conocimien-
-tos en Java y en JavaScript.
+por los lenguajes, solamente que en vez de alemán o árabe, comencé a asentar mis conocimientos en Java y en JavaScript.
 
 ---
 ## Objetivos para el 2021
@@ -37,8 +36,6 @@ tos en Java y en JavaScript.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&redirect=true)
 ---
 ## Contáctame
-
-[<img align="left" alt="heymanolito.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [![Twitter]<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
