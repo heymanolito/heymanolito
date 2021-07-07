@@ -90,7 +90,7 @@ Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años 
 [ENGLISH]: https://github.com/heymanolito/heymanolito/blob/master/ENGLISH.md
 [twitter]: https://twitter.com/heymanolito
 [instagram]: https://www.instagram.com/heymanolito/
-[linkedin]: https://www.linkedin.com/in/manuel-gallardo-925573139
+[linkedin]: https://www.linkedin.com/in/heymanolito/
 [visualstudiocode]: https://es.wikipedia.org/wiki/Visual_Studio_Code
 [intellij]: https://es.wikipedia.org/wiki/IntelliJ_IDEA
 [java]: https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)
