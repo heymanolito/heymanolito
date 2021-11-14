@@ -13,12 +13,12 @@ Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años 
 
 ---
 ## Objetivos para el 2022
-> ✔️ Spring
+> ❌ JPA
 > ✔️ Spring Data
 > ✔️ Spring Web
 > ❌ Spring Boot
 > ❌ JPA
-> ❌ SpringBoot
+
 
 ---
 ## Acerca de mí
