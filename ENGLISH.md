@@ -17,6 +17,7 @@ I was intrigued by the process behind the creation of a website, so I decided to
 > ✔️ Spring Data 
 > ✔️ Spring Web 
 > ❌ Spring Boot
+> ❌ React
 ---
 ## About me
 - 🔭 I have just finished my first year as a Web Application Programmer.
