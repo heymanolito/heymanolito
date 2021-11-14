@@ -17,7 +17,7 @@ Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años 
 > ✔️ Spring Data
 > ✔️ Spring Web
 > ❌ Spring Boot
-> ❌ JPA
+> ❌ React
 
 
 ---
