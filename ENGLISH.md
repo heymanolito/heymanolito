@@ -12,20 +12,16 @@ I was intrigued by the process behind the creation of a website, so I decided to
 
 
 ---
-## My goals for 2020
-> ✔️ SOLID principles
-> ✔️ JavaDoc
-> ❌ Java APIs
-> ❌ Java Web
-> ❌ JPA
-> ❌ SpringBoot
-> ❌ JavaScript
+## My goals for 2022
+> ❌ JPA 
+> ✔️ Spring Data 
+> ✔️ Spring Web 
+> ❌ Spring Boot
 ---
 ## About me
 - 🔭 I have just finished my first year as a Web Application Programmer.
 - 👯 I’m looking to collaborate with other Developers.
-- 🥅 Goals for 2020: to deploy my first web project.
-- ⚡ Fun fact: I love to DJ in my free time.
+- ⚡ Fun fact: I practice Jiu-Jitsu
 ---
 ## Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&redirect=true)
