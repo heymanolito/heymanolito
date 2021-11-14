@@ -12,20 +12,19 @@ web, lo que me hizo interesarme por la traducción de software. Me intrigaba cu�
 Sabía que al principio se me daría muy mal, ya que llevaba desde los 15 años sin estudiar matemáticas o ciencias. Sin embargo, esto no me frenó. Sentía la misma la misma sensación de aprendizaje insaciable que uno tiene cuando comienza a aprender un nuevo idioma. Decidí dar el paso y cambiar el rumbo de mi carrera. Al fin y al cabo, seguía siendo un apasionado por los lenguajes, solamente que en vez de alemán o árabe, comencé a asentar mis conocimientos en Java y en JavaScript.
 
 ---
-## Objetivos para el 2021
-> ✔️ Principios SOLID de la programación
-> ✔️ JavaDoc
-> ❌ La API Java
-> ❌ Java Web
+## Objetivos para el 2022
+> ✔️ Spring
+> ✔️ Spring Data
+> ✔️ Spring Web
+> ❌ Spring Boot
 > ❌ JPA
 > ❌ SpringBoot
-> ❌ JavaScript
+
 ---
 ## Acerca de mí
 - 🔭 Acabo de terminar mi primer año como Desarrollador de Aplicaciones Web.
 - 👯 Si quieres realizar un proyecto conmigo, contáctame.
-- 🥅 Metas para el 2020: desplegar mi primer proyecto web.
-- ⚡ Dato curioso: me encanta hacer de DJ en mi tiempo libre.
+- ⚡ Dato curioso: practico Jiu-Jitsu!
 ---
 ## Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=mgffs18&redirect=true)
